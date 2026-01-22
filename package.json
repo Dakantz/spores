@@ -1,0 +1,19 @@
+{
+  "name": "spores",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@types/d3": "^7.4.3",
+    "@types/victor": "^1.1.5",
+    "d3": "^7.9.0",
+    "roughjs": "^4.6.6",
+    "victor": "^1.1.0"
+  }
+}
